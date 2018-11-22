@@ -25,7 +25,7 @@ SECRET_KEY = '#gx0g!nrj0(8%lb$l5f%onf1t9()ggb%r-p_!#!01i$5swgcb('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'maria.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'marialink24.pythonanywhere.com']
 
 
 # Application definition
